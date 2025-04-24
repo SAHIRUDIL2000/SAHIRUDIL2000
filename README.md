@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahiru Dilshan</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
+[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SAHIRUDIL2000)
+
 - 🌱 I’m currently undergraduate **BICT(Hons)**
 
 - 📝 I regularly write articles on [https://medium.com/@dilshansahiru2000](https://medium.com/@dilshansahiru2000)
