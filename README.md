@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahiru Dilshan</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A developer from Sri Lanka</h3>
 
 [Profile views](https://profile-counter.glitch.me/SAHIRUDIL2000/count.svg)
 
-- 🌱 I’m currently undergraduate **BICT(Hons)**
+- 🌱 I’m rgraduate **BICT(Hons)**
 
 - 📝 I regularly write articles on [https://medium.com/@dilshansahiru2000](https://medium.com/@dilshansahiru2000)
 
-- 💬 Ask me about **PHP, SQL, HTML, CSS, Boostrap, Javascript**
+- 💬 Ask me about **PHP, SQL, HTML, CSS, Boostrap, Javascript, React**
 
 - 📫 How to reach me **sahirudilshan2000@gmail.com**
 
