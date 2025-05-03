@@ -3,7 +3,7 @@
 
 [Profile views](https://profile-counter.glitch.me/SAHIRUDIL2000/count.svg)
 
-- 🌱 I’m rgraduate **BICT(Hons)**
+- 🌱 I’m graduate **BICT(Hons)**
 
 - 📝 I regularly write articles on [https://medium.com/@dilshansahiru2000](https://medium.com/@dilshansahiru2000)
 
